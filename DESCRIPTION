@@ -1,0 +1,12 @@
+Package: myfirstpackage
+Type: Package
+Title: Counts to a number
+Version: 0.1.0
+Author: Christopher Nelson
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Allows the user to select a certain number, then a
+              function will count to that specific number.
+License: BYU Stat 495
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
